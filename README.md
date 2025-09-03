@@ -14,6 +14,9 @@
 - 可即時處理影片畫面並顯示計數結果
 - 具備基本雜訊處理與視覺化介面（`imshow`, `putText`, `rectangle`）
 
+## 🎬 Demo
+![Vehicle Counting Demo](output_videos/output_video.gif)
+
 ### 🧠 我的學習重點
 這個專案讓我理解了：
 - 如何處理動態影像中的背景與前景分離
